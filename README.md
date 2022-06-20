@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristisa
 - 👀 I’m interested in writing, marketing, photography and programming;
-- 🌱 I’m currently learning fullstack;
+- 🌱 I’m currently learning fullstack and applying agile methodologies as scrum and kanban through jira software;
 - 💞️ I’m looking to collaborate on: anything I can;
 - 📫 How to reach me: cristy.si@gmail.com
 
