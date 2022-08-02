@@ -5,7 +5,7 @@
 - ✅ My badges at codeacademy: https://www.codecademy.com/profiles/cristinaSanjuan0781531592
 - 🥇 My team won a Hackaton: https://www.linkedin.com/posts/activity-6957717689104510977-Bo7E?utm_source=linkedin_share&utm_medium=member_desktop_web
 - 📫 How to reach me: cristy.si@gmail.com
-- My webpage on Github: https://cristisa.github.io/Cristy-s-Page/cristinapage.html
+- ⚓ My webpage on Github: https://cristisa.github.io/Cristy-s-Page/cristinapage.html
 
 
 <!---
