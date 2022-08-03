@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristisa
-- 👀 I’m interested in full-stack development and content writing (marketing);
+- 👀 I’m interested in full-stack development and marketing;
 - 🌱 I’m currently learning full-stack (frameworks: django, symfony and react)
       and applying agile methodologies as scrum, kanban through trello and jira software;
 - ✅ Badges at codeacademy: https://www.codecademy.com/profiles/cristinaSanjuan0781531592
